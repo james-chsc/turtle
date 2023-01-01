@@ -10,7 +10,7 @@ def go_to(x, y):
 # 程式開始
 # =======
 screensize(800, 600)    # 設定畫布大小
-title('皮卡丘')          # 窗口抬頭
+title('皮卡丘')          # 視窗抬頭
 pensize(3)              # 設定畫筆粗細為3
 speed(0)                # 畫圖速度
 
